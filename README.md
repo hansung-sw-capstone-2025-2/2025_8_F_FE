@@ -1,4 +1,4 @@
-# PanelFinder Frontend
+# 2025_8_F_FE
 
 https://github.com/user-attachments/assets/42aa02ea-233e-431f-9ccc-bde13cb356e2
 
